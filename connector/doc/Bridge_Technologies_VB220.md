@@ -5,7 +5,7 @@ uid: Connector_help_Bridge_Technologies_VB220
 # Bridge Technologies VB220
 
 > [!IMPORTANT]
-> This connector is deprecated. [Bridge Technologies VB Probe Series](xref:Connector_help_Bridge_Technologies_VB_Probe_Series) should be used instead.
+> This connector is deprecated. [Bridge Technologies VB Probe Series](https://catalog.dataminer.services/details/f1fa63a6-62b8-4817-82b6-7f37efb7371f) should be used instead.
 
 The VB220 IP-PROBE is a monitoring platform for applications in networks where digital video is carried across an IP infrastructure. It is built specifically for high-end industry needs and can monitor both pure IPTV networks and hybrid networks with IP transport cores, such as digital cable and terrestrial networks.
 
